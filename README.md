@@ -24,6 +24,12 @@ then set up virtual enviroment
 ```bash
   pipenv install
 ```
+
+access enviroment
+
+```bash
+  pipenv shell
+```
     
 ## Running Tests
 
