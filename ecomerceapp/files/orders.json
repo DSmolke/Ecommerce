@@ -1,0 +1,62 @@
+[
+  {
+    "customer": {
+      "name": "DAMIAN",
+      "surname": "SMOLCZYNSKI",
+      "age": 18,
+      "email": "d.smolczynski@o2.pl"
+    },
+    "product": {
+      "name": "TV",
+      "price": "20.00",
+      "category": "A"
+    },
+    "quantity": 2,
+    "order_date": "2022-11-20T00:00:00+00:00"
+  },
+  {
+    "customer": {
+      "name": "MARIA",
+      "surname": "SMOLKE",
+      "age": 18,
+      "email": "d.smolczynski1@o2.pl"
+    },
+    "product": {
+      "name": "CAR",
+      "price": "200.00",
+      "category": "A"
+    },
+    "quantity": 3,
+    "order_date": "2022-12-20T00:00:00+00:00"
+  },
+  {
+    "customer": {
+      "name": "DAMIAN",
+      "surname": "SMOLCZYNSKI",
+      "age": 18,
+      "email": "d.smolczynski@o2.pl"
+    },
+    "product": {
+      "name": "FRIDGE",
+      "price": "100.00",
+      "category": "C"
+    },
+    "quantity": 2,
+    "order_date": "2022-11-20T00:00:00+00:00"
+  },
+  {
+    "customer": {
+      "name": "MARIA",
+      "surname": "SMOLKE",
+      "age": 18,
+      "email": "d.smolczynski1@o2.pl"
+    },
+    "product": {
+      "name": "FRIDGE",
+      "price": "200.00",
+      "category": "A"
+    },
+    "quantity": 15,
+    "order_date": "2022-11-23T00:00:00+00:00"
+  }
+]
