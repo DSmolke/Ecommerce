@@ -14,7 +14,7 @@ Project is part of a learning so I'm happy to get any valuable feedback :)
 
 ## Installation
 
-!ENTER ecommerce2 FOLDER
+In main directory
 
 First install pipenv if u don't have it yet.
 ```bash
