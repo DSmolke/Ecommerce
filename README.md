@@ -14,6 +14,8 @@ Project is part of a learning so I'm happy to get any valuable feedback :)
 
 ## Installation
 
+!ENTER ecommerce2 FOLDER
+
 First install pipenv if u don't have it yet.
 ```bash
   pip install pipenv
@@ -23,6 +25,12 @@ then set up virtual enviroment
 
 ```bash
   pipenv install
+```
+
+access enviroment
+
+```bash
+  pipenv shell
 ```
     
 ## Running Tests
